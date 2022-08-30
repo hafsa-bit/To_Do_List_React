@@ -1,0 +1,18 @@
+input {
+  width: 85%;
+  border: none;
+  height: 30px;
+  border-bottom: 3px solid teal;
+  font-size: 20px;
+  color: teal;
+  border-top: none;
+}
+
+button {
+  color: white;
+  background-color: teal;
+  border: none;
+  border-radius: 50%;
+  font-size: 15px;
+  padding: 5px;
+}
